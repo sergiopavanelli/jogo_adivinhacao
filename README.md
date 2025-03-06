@@ -26,4 +26,4 @@ Este jogo pode ser executado no **Google Colab**, no **Jupyter Notebook** ou dir
 ### 📌 Dependências  
 Certifique-se de ter a biblioteca **matplotlib** instalada para visualizar o gráfico:  
 ```bash
-pip install matplotlib
+!pip install matplotlib
